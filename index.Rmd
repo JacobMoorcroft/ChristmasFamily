@@ -16,7 +16,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r, message=FALSE, warning=FALSE, echo=FALSE, fig.align="center", out.width = "120%"}
+```{r, message=FALSE, warning=FALSE, echo=FALSE, fig.align="center", out.width = "100%"}
 library(magick)
 img <- image_read("pics/hq720.jpg")
 image_write(img, path = "pics/hq720.jpg", format = "jpeg")
