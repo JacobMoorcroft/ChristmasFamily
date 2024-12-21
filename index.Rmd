@@ -1,0 +1,42 @@
+---
+title: "🎁✨🎄 MERRY CHRISTMAS! 🎄✨🎁"
+output:
+  rmdformats::readthedown:
+    df_print: paged
+    fig_width: 7
+    fig_height: 6.37
+    fig_caption: true
+    toc_depth: 3
+    toc_float: 
+     collapsed: false
+    highlighter: tango
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE, fig.align="center", out.width = "120%"}
+library(magick)
+img <- image_read("pics/hq720.jpg")
+image_write(img, path = "pics/hq720.jpg", format = "jpeg")
+knitr::include_graphics("pics/hq720.jpg")
+```
+<br>
+
+
+## <span style="color:blue;">⭐**Wishing You All A Very Happy Holiday Season!**⭐</span><br>
+
+  To family both *immediate* and *extended*, wishing you all a <span style="color:red;">**Merry Christmas**</span>, a <span style="color:green;">**Happy New Year's**</span>, and a 2025 full of opportunities and excitement! <br>
+
+![](pics/374728071_10227312278365234_4578217180057969679_n.jpg){width=70%}
+
+
+❄️
+🎁
+✨
+🎄
+🎅
+☃️
+🌟
+⭐
