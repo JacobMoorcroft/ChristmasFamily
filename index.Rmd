@@ -9,7 +9,12 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2TE4xW3ImvpltVU0cPcKUn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<button onclick="document.getElementById('spotify-player').src += '&autoplay=true';">Play Music</button>
+<iframe id="spotify-player" style="border-radius:12px" 
+        src="https://open.spotify.com/embed/track/2TE4xW3ImvpltVU0cPcKUn?utm_source=generator" 
+        width="100%" height="152" frameBorder="0" 
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+        loading="lazy"></iframe>
 
 ```{r, message=FALSE, warning=FALSE, echo=FALSE, fig.align="center", out.width = "100%"}
 library(magick)
