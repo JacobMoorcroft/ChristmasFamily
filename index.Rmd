@@ -23,7 +23,18 @@ knitr::include_graphics("pics/hq720.jpg")
 ## To family both *immediate* and *extended*, wishing you all a <span style="color:red;">**Merry Christmas**</span>, a <span style="color:green;">**Happy New Year's**</span>, and a 2025 full of opportunities and excitement! 
 <br>
 
-## To times both recent and not so recent ...
+## To all the memories we have made ...
+<br>
+
+![](pics/IMG-20241224-WA0002.jpg){width=70%}
+
+<br><br><span style="font-size: 50px;">❄️️️</span>
+<br><br>
+
+![](pics/430085810_7504887792938631_502745098008963550_n.jpg){width=70%}
+
+<br><br><span style="font-size: 50px;">🎄️️</span>
+<br><br>
 
 ![](pics/374728071_10227312278365234_4578217180057969679_n.jpg){width=70%}
 
@@ -35,7 +46,7 @@ knitr::include_graphics("pics/hq720.jpg")
 <br><br><span style="font-size: 50px;">🎁️️</span>
 <br><br>
 
-![](pics/430085810_7504887792938631_502745098008963550_n.jpg){width=70%}
+![](pics/IMG-20241224-WA0003.jpg){width=70%}
 
 <br><br><span style="font-size: 50px;">🎅️
 <br><br>
@@ -54,7 +65,7 @@ knitr::include_graphics("pics/hq720.jpg")
 
 <br>
 
-## And to all the times yet to come!
+## And to all of those yet to come!
 
 ## With all of my love,
 # ~ Jacob 
