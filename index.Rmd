@@ -2,10 +2,6 @@
 title: "🎁✨🎄 MERRY CHRISTMAS! 🎄✨🎁"
 output:
   rmdformats::readthedown:
-    df_print: paged
-    fig_width: 7
-    fig_height: 6.37
-    fig_caption: true
     highlighter: tango
 ---
 
@@ -13,11 +9,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r, echo=FALSE, results='asis'}
-video_url<-"https://www.youtube.com/embed/N-PyWfVkjZc"
-cat(sprintf('<iframe width="560" height="315" src="%s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>', video_url))
-
-```
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2TE4xW3ImvpltVU0cPcKUn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ```{r, message=FALSE, warning=FALSE, echo=FALSE, fig.align="center", out.width = "100%"}
 library(magick)
