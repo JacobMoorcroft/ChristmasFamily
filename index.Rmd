@@ -6,14 +6,17 @@ output:
     fig_width: 7
     fig_height: 6.37
     fig_caption: true
-    toc_depth: 3
-    toc_float: 
-     collapsed: false
     highlighter: tango
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, echo=FALSE, results='asis'}
+video_url<-"https://www.youtube.com/embed/N-PyWfVkjZc"
+cat(sprintf('<iframe width="560" height="315" src="%s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>', video_url))
+
 ```
 
 ```{r, message=FALSE, warning=FALSE, echo=FALSE, fig.align="center", out.width = "100%"}
