@@ -9,13 +9,6 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<button onclick="document.getElementById('spotify-player').src += '&autoplay=true';">Play Music</button>
-<iframe id="spotify-player" style="border-radius:12px" 
-        src="https://open.spotify.com/embed/track/2TE4xW3ImvpltVU0cPcKUn?utm_source=generator" 
-        width="100%" height="152" frameBorder="0" 
-        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-        loading="lazy"></iframe>
-
 ```{r, message=FALSE, warning=FALSE, echo=FALSE, fig.align="center", out.width = "100%"}
 library(magick)
 img <- image_read("pics/hq720.jpg")
@@ -25,18 +18,43 @@ knitr::include_graphics("pics/hq720.jpg")
 <br>
 
 
-## <span style="color:blue;">⭐**Wishing You All A Very Happy Holiday Season!**⭐</span><br>
+# <span style="color:blue;">⭐**Wishing You All A Very Happy Holiday Season!**⭐</span><br>
 
-  To family both *immediate* and *extended*, wishing you all a <span style="color:red;">**Merry Christmas**</span>, a <span style="color:green;">**Happy New Year's**</span>, and a 2025 full of opportunities and excitement! <br>
+## To family both *immediate* and *extended*, wishing you all a <span style="color:red;">**Merry Christmas**</span>, a <span style="color:green;">**Happy New Year's**</span>, and a 2025 full of opportunities and excitement! 
+<br>
+
+## To times both recent and not so recent ...
 
 ![](pics/374728071_10227312278365234_4578217180057969679_n.jpg){width=70%}
 
+<br><br><span style="font-size: 50px;">☃️️</span>
+<br><br>
 
-❄️
-🎁
-✨
-🎄
-🎅
-☃️
-🌟
-⭐
+![](pics/68423073_10216405458383708_3464184208497311744_n.jpg){width=70%}
+
+<br><br><span style="font-size: 50px;">🎁️️</span>
+<br><br>
+
+![](pics/430085810_7504887792938631_502745098008963550_n.jpg){width=70%}
+
+<br><br><span style="font-size: 50px;">🎅️
+<br><br>
+
+![](pics/464435689_10229986277853550_1002379027148802290_n.jpg){width=70%}
+
+<br><br><span style="font-size: 50px;">❄️️️</span>
+<br><br>
+
+![](pics/99296949_10219575789477847_7552448433781473280_n.jpg){width=70%}
+
+<br><br><span style="font-size: 50px;">🎄️️</span>
+<br><br>
+
+![](pics/449301542_10227740605995314_6393645085391875129_n.jpg){width=70%}
+
+<br>
+
+## And to all the times yet to come!
+
+## With all of my love,
+# ~ Jacob 
